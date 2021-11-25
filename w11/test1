@@ -1,0 +1,10 @@
+1let
+ 1 integer n,x.
+in12
+  r12ead n;
+  if12 n<10 then x:=1; else skip; fi;
+  whi12le n<10 do x:=5*x; n:=n+1; end;
+  skip;2
+  writ1e n;
+  write122 x;
+end1
